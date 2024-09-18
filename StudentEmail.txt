@@ -1,1 +1,2 @@
 This file consist of email address
+@Gmail.com
